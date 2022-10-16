@@ -1,3 +1,3 @@
 # Database
 # Inha University
-# Prof.Mehdi
+# Professor Mehdi
